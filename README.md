@@ -1,0 +1,2 @@
+#weixin_public 增加微信公众平台
+#qq_online-status_to_fetion 实时获取qq状态通过飞信发送到手机
